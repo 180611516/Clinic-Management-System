@@ -1,0 +1,935 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|c:\\users\\kolisang\\desktop\\semester5\\c#\\botho_clinic_management_system\\botho_clinic_management_system\\frmuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmuserprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmuserprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmstudentreminders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmstudentreminders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmstudentreminders.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmstudentreminders.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmstudentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmstudentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmstudentdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmstudentdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmstaffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmstaffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmstaffmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmstaffmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmreporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmreporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmreporting.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmreporting.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmreminders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmreminders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmreminders.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmreminders.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmregistration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmregistration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmproviderdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmproviderdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmproviderdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmproviderdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmproviderappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmproviderappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmproviderappointments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmproviderappointments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmprescription.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmprescription.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmforgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmforgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmforgotpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmforgotpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmdailyappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmdailyappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmdailyappointments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmdailyappointments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmconsultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmconsultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmconsultation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmconsultation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmchangepassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmchangepassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmbookappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmbookappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmbookappointment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmbookappointment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmappointments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmappointments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmappointmenthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmappointmenthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmappointmenthistory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmappointmenthistory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmadmindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmadmindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmstudentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmstudentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmstudentreminders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmstudentreminders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmproviderdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmproviderdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmdailyappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmdailyappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmstaffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmstaffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmreporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmreporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmreminders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmreminders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmproviderappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmproviderappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmconsultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmconsultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmbookappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmbookappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\frmappointmenthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\frmappointmenthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\usersync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\usersync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\botho_clinic_management_system\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AEC955D7-8B7E-4D01-9592-FF7B12E31B78}|Botho_Clinic_Management_System\\Botho_Clinic_Management_System.csproj|solutionrelative:botho_clinic_management_system\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmUserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmUserProfile.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmUserProfile.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmUserProfile.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmUserProfile.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAmwJ8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T06:16:07.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmStudentDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmStudentDashboard.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmStudentDashboard.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmStudentDashboard.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmStudentDashboard.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAADwv18AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:14:31.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmStudentReminders.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmStudentReminders.Designer.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmStudentReminders.Designer.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmStudentReminders.Designer.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmStudentReminders.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:47:49.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmStudentReminders.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmStudentReminders.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmStudentReminders.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmStudentReminders.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmStudentReminders.cs",
+              "ViewState": "AgIAAIABAAAAAAAAAAAAAJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:48:22.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmUserProfile.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmUserProfile.Designer.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmUserProfile.Designer.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmUserProfile.Designer.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmUserProfile.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJICAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T06:17:37.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmStudentDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmStudentDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmStudentDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmStudentDashboard.Designer.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmStudentDashboard.Designer.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAowA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T11:49:12.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmStaffManagement.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmStaffManagement.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmStaffManagement.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmStaffManagement.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmStaffManagement.cs",
+              "ViewState": "AgIAAEQBAAAAAAAAAAAYwCQBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T07:08:42.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmStaffManagement.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmStaffManagement.Designer.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmStaffManagement.Designer.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmStaffManagement.Designer.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmStaffManagement.Designer.cs",
+              "ViewState": "AgIAAM0BAAAAAAAAAAA5wOcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T02:12:46.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmReporting.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmReporting.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmReporting.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmReporting.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmReporting.cs",
+              "ViewState": "AgIAAAECAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T14:17:17.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmReporting.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmReporting.Designer.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmReporting.Designer.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmReporting.Designer.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmReporting.Designer.cs",
+              "ViewState": "AgIAAJgBAAAAAAAAAAAmwJoBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T07:45:35.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmReminders.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmReminders.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmReminders.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmReminders.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmReminders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T07:14:44.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmReminders.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmReminders.Designer.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmReminders.Designer.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmReminders.Designer.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmReminders.Designer.cs",
+              "ViewState": "AgIAADQBAAAAAAAAAAAAADQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T07:13:35.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmRegistration.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmRegistration.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmRegistration.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmRegistration.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:39:46.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmRegistration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmRegistration.Designer.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmRegistration.Designer.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmRegistration.Designer.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmRegistration.Designer.cs",
+              "ViewState": "AgIAABwBAAAAAAAAAAAIwBUBAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:27:31.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmProviderDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmProviderDashboard.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmProviderDashboard.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmProviderDashboard.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmProviderDashboard.cs",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAgwO4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T09:32:52.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmProviderDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmProviderDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmProviderDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmProviderDashboard.Designer.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmProviderDashboard.Designer.cs",
+              "ViewState": "AgIAADECAAAAAAAAAAA2wD4CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T09:16:13.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmProviderAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmProviderAppointments.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmProviderAppointments.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmProviderAppointments.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmProviderAppointments.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAwMMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:04:08.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmProviderAppointments.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmProviderAppointments.Designer.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmProviderAppointments.Designer.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmProviderAppointments.Designer.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmProviderAppointments.Designer.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:03:38.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmPrescription.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmPrescription.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmPrescription.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmPrescription.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmPrescription.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowCoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T10:34:56.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmPrescription.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmPrescription.Designer.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmPrescription.Designer.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmPrescription.Designer.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmPrescription.Designer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T10:35:28.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmLogin.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmLogin.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAmwIUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:17:46.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmLogin.Designer.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmLogin.Designer.cs",
+              "ViewState": "AgIAAJABAAAAAAAAAAAmwJwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:03:50.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmForgotPassword.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmForgotPassword.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmForgotPassword.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmForgotPassword.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmForgotPassword.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAADwv+UAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T06:51:05.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmForgotPassword.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmForgotPassword.Designer.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmForgotPassword.Designer.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmForgotPassword.Designer.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmForgotPassword.Designer.cs",
+              "ViewState": "AgIAABcBAAAAAAAAAAAowGIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T06:49:01.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmDailyAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmDailyAppointments.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmDailyAppointments.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmDailyAppointments.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmDailyAppointments.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T10:10:18.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmDailyAppointments.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmDailyAppointments.Designer.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmDailyAppointments.Designer.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmDailyAppointments.Designer.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmDailyAppointments.Designer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T09:48:01.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmConsultation.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmConsultation.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmConsultation.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmConsultation.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmConsultation.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAuwNcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T06:21:30.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmConsultation.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmConsultation.Designer.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmConsultation.Designer.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmConsultation.Designer.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmConsultation.Designer.cs",
+              "ViewState": "AgIAAAYCAAAAAAAAAAAswAICAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:01:48.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmChangePassword.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmChangePassword.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmChangePassword.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T23:59:31.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmChangePassword.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmChangePassword.Designer.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmChangePassword.Designer.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmChangePassword.Designer.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmChangePassword.Designer.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowGQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T14:07:13.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmBookAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmBookAppointment.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmBookAppointment.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmBookAppointment.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmBookAppointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:14:43.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmBookAppointment.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmBookAppointment.Designer.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmBookAppointment.Designer.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmBookAppointment.Designer.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmBookAppointment.Designer.cs",
+              "ViewState": "AgIAAC8BAAAAAAAAAAAkwDsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T07:50:01.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmAppointments.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmAppointments.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmAppointments.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmAppointments.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAmwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:20:05.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmAppointments.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmAppointments.Designer.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmAppointments.Designer.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmAppointments.Designer.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmAppointments.Designer.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowDwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:19:31.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmAppointmentHistory.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmAppointmentHistory.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmAppointmentHistory.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmAppointmentHistory.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmAppointmentHistory.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAIwCkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T07:43:30.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmAppointmentHistory.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmAppointmentHistory.Designer.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmAppointmentHistory.Designer.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmAppointmentHistory.Designer.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmAppointmentHistory.Designer.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowGgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T07:46:35.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmAdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmAdminDashboard.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmAdminDashboard.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmAdminDashboard.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmAdminDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T22:54:25.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmAdminDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmAdminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmAdminDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmAdminDashboard.Designer.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmAdminDashboard.Designer.cs",
+              "ViewState": "AgIAAG8BAAAAAAAAAAAcwGcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:11:11.379Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T10:25:23.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmStudentDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmStudentDashboard.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmStudentDashboard.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmStudentDashboard.cs [Design]",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmStudentDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T23:09:33.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmStudentReminders.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmStudentReminders.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmStudentReminders.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmStudentReminders.cs [Design]",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmStudentReminders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:47:40.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmProviderDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmProviderDashboard.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmProviderDashboard.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmProviderDashboard.cs [Design]",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmProviderDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T19:22:20.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmUserProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmUserProfile.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmUserProfile.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmUserProfile.cs [Design]",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmUserProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T06:15:52.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frmDailyAppointments.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmDailyAppointments.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmDailyAppointments.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmDailyAppointments.cs [Design]",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmDailyAppointments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T19:38:24.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmAdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmAdminDashboard.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmAdminDashboard.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmAdminDashboard.cs [Design]",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmAdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T06:49:37.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmStaffManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmStaffManagement.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmStaffManagement.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmStaffManagement.cs [Design]",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmStaffManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T08:40:09.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frmReporting.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmReporting.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmReporting.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmReporting.cs [Design]",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmReporting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T08:40:06.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "frmReminders.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmReminders.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmReminders.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmReminders.cs [Design]",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmReminders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T19:37:30.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "frmRegistration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmRegistration.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmRegistration.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmRegistration.cs [Design]",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T08:40:01.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "frmProviderAppointments.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmProviderAppointments.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmProviderAppointments.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmProviderAppointments.cs [Design]",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmProviderAppointments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:03:25.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "frmPrescription.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmPrescription.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmPrescription.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmPrescription.cs [Design]",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmPrescription.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T19:39:09.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "frmConsultation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmConsultation.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmConsultation.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmConsultation.cs [Design]",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmConsultation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T19:38:44.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "frmChangePassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmChangePassword.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmChangePassword.cs [Design]",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T08:39:39.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "frmBookAppointment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmBookAppointment.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmBookAppointment.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmBookAppointment.cs [Design]",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmBookAppointment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T19:36:35.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "frmAppointments.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmAppointments.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmAppointments.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmAppointments.cs [Design]",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmAppointments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:19:19.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "frmAppointmentHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmAppointmentHistory.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\frmAppointmentHistory.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\frmAppointmentHistory.cs [Design]",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\frmAppointmentHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T19:37:04.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UserSync.cs",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\UserSync.cs",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\UserSync.cs",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\UserSync.cs",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\UserSync.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T12:00:41.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\App.config",
+              "RelativeDocumentMoniker": "Botho_Clinic_Management_System\\App.config",
+              "ToolTip": "C:\\Users\\kolisang\\Desktop\\semester5\\C#\\Botho_Clinic_Management_System\\Botho_Clinic_Management_System\\App.config",
+              "RelativeToolTip": "Botho_Clinic_Management_System\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-21T12:26:39.076Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
